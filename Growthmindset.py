@@ -2,7 +2,8 @@
 import streamlit as st  # type: ignore
 import pandas as pd  # type: ignore
 import os
-import plotly.express as px  # type: ignore # Import Plotly for interactive charts
+import plotly.express as px # type: ignore
+
 
 # Page Configuration
 st.set_page_config(page_title="Data Sweeper - Sterling Integrator", layout='wide', page_icon="🧹")
